@@ -1,0 +1,6 @@
+Dane mogą zostać pobrane z następujących źródeł
+1. training data: http://kdd.ics.uci.edu/databases/kddcup99/kddcup.data.gz
+2. test data: http://kdd.ics.uci.edu/databases/kddcup99/corrected.gz
+3. unlabeled data (a.k.a production data): http://kdd.ics.uci.edu/databases/kddcup99/kddcup.newtestdata_10_percent_unlabeled.gz
+
+After downloading the training and test data set, rename them as 'kdd_train.csv', 'kdd_test.csv', 'column_names.txt' and 'kdd_prod.csv' 
